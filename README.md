@@ -66,17 +66,7 @@ Review and correction by domain experts to ensure accuracy, especially for small
 File Structure
 The extracted dataset archive has the following structure:
 
-text
-MShips-2025/
-├── images/
-│   ├── train/          # Training set images
-│   └── val/            # Validation set images
-├── labels/
-│   ├── train/          # Training set labels (.txt files in YOLO format)
-│   └── val/            # Validation set labels (.txt files in YOLO format)
-└── dataset.yaml        # YAML configuration file for training (example below)
-Example dataset.yaml
-yaml
+
 path: /path/to/MShips-2025  # dataset root dir
 train: images/train  # train images (relative to 'path')
 val: images/val    # val images (relative to 'path')
