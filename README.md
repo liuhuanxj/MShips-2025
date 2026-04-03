@@ -1,5 +1,5 @@
 # MShips-2025
-The complete MShips-2025 dataset (approximately 5GB) is available for download via https://www.kaggle.com/datasets/njustliuhuan/mships-2025v1-0.
+The complete MShips-2025 dataset (approximately 5GB) is available. Please contact liuhuan@njust.edu.cn.
 Note: This dataset is intended for academic research only. Please read and comply with the license terms below.
 
 Overview
